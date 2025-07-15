@@ -5,6 +5,10 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
 base: "/chotugame/",
+<<<<<<< HEAD
+=======
+
+>>>>>>> d8d2fcd (Update GitHub main.tsx)
   server: {
     host: "::",
     port: 8080,
