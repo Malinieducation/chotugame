@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
   
-  base: mode === 'development' ? '/' : '/chotugame/',
+  base:"/chotugame/",
 
   server: {
     host: "::",
