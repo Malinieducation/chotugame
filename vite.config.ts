@@ -4,11 +4,9 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-base: "/chotugame/",
-<<<<<<< HEAD
-=======
+  
+  base: mode === 'development' ? '/' : '/chotugame/',
 
->>>>>>> d8d2fcd (Update GitHub main.tsx)
   server: {
     host: "::",
     port: 8080,

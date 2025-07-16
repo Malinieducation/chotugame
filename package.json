@@ -1,10 +1,9 @@
 {
   "name": "vite_react_shadcn_ts",
-<<<<<<< HEAD
-  "home":"",
-=======
-  "homepage": "https://Malinieducation.github.io/chotugame",
->>>>>>> d8d2fcd (Update GitHub main.tsx)
+
+ "homepage": "https://Malinieducation.github.io/chotugame/",
+  "home": "",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
